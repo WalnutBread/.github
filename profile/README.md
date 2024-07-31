@@ -1,9 +1,4 @@
 개발 연습 공간<br>
-
-이 워크스페이스는 호두식빵을 먹으면서 만들어졌습니다 <br>
-
-배고파
-
 <!--
 
 **Here are some ideas to get you started:**
